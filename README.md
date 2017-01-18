@@ -1,3 +1,3 @@
 # Git-test
 
-added new line
+corrected new line
